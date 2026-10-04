@@ -1,0 +1,11 @@
+dump.sql
+.env
+.git
+__pycache__
+*.pyc
+*.log
+Dockerfile*
+README.md
+run.sh
+.gitignore
+repository-url.txt
